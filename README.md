@@ -185,6 +185,8 @@ New technologies like Next.js and Svelte were introduced:
 
 - **Natural Interaction:** Users can interact with apps using voice or more human-like inputs.
 
+---
+
 ## HTML5 Semantics
 
 ### 1. What is Semantic HTML? Why do we need it?
@@ -807,6 +809,7 @@ These attributes are specially used to improve accessibility.
 ```html
 <meta name="description" content="My website" />
 ```
+---
 
 ## CSS3 layouts and responsiveness
 
